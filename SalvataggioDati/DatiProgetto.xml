@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--!!!Non modificate-->
+<root>
+
+    <computerportatile nome="mac" marca="Apple" modello="macbookpro" os="mojave" prezzo_base="1200" anno_diuscita="2015" ram="8" memoria="256" schedavideo="true"
+  scheda_vid="Intel Iris Plus Graphics 645" durata_batteria="8" schermo_touch="false" dim_schermo="13.3"/>
+
+    <computerportatile nome="dell latitude" marca="Dell" modello="E4300" os="windows 10" prezzo_base="1100" anno_diuscita="2008" ram="4" memoria="256" schedavideo="false" scheda_vid="" durata_batteria="5" schermo_touch="false" dim_schermo="13.3"/>
+
+    <computerfisso nome="dell OptiPlex" marca="Dell" modello="3060" os="windows 10 Pro" prezzo_base="629" anno_diuscita="2012" ram="8" memoria="256" schedavideo="true" scheda_vid="Intel UHD Graphics" tastiera="true"/>
+
+    <computerfisso nome="ProDesk 400" marca="Dell" modello="G5" os="windows 10 Pro" prezzo_base="639" anno_diuscita="2014" ram="8" memoria="256" schedavideo="true" scheda_vid="Intel UHD Graphics" tastiera="false"/>
+
+
+
+    <tablet nome="iPad" marca="Apple" modello="air" os="ios" prezzo_base="349" anno_diuscita="2015" ram="4" memoria="16" duratta_batteria="7" fotocamerafrontale="true" megapixel="5" dim_schermo="9.7" schedasim="false" auricolari="true"/>
+    <tablet nome="Galaxy Tab" marca="Samsung" modello="4" os="Android" prezzo_base="329" anno_diuscita="2014" ram="1.5" memoria="16" duratta_batteria="4" fotocamerafrontale="true" megapixel="3" dim_schermo="10.1" schedasim="true" auricolari="true"/>
+    
+    <smartphone nome="galaxy" marca="Samsung" modello="s10" os="Android" prezzo_base="929" anno_diuscita="2019" ram="8" memoria="128" duratta_batteria="11" fotocamerafrontale="true" megapixel="12" dim_schermo="5.1" memoria_espandibile="true" dual_sim="true" />
+    <smartphone nome="iPhone" marca="Apple" modello="X" os="ios" prezzo_base="1029" anno_diuscita="2017" ram="3" memoria="256" duratta_batteria="9" fotocamerafrontale="true" megapixel="12" dim_schermo="5.8" memoria_espandibile="false" dual_sim="false" />
+
+</root>
